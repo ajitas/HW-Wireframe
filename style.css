@@ -24,14 +24,8 @@ section {
     width: 495px;
     padding-top:25px;
     margin-top:15px;
-    
+    float:left;  
 }
-section:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 
 article{
     color: #ebebeb;
@@ -40,19 +34,22 @@ article{
     padding-top:20px;
 }
 footer {
+    clear:both;
     text-align:center;
     background: #ebebeb;
     padding:25px;
-    margin-top:15px;
+    margin-top:25px;
 }
 aside {
-    float: right;
+    float: left;
     text-align:center;
     background: #ebebeb;
     width:450px;
     height:225px;
     padding-top:20px;
     margin-top:15px;
+    margin-left:15px;
+    margin-bottom:15px;
     
 }
 p,div {
