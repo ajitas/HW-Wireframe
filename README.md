@@ -13,7 +13,7 @@ Learning html,css,floats,positioning
 ## Images
 <!-- take a picture of the image and add it into the readme  -->
 <!-- ![image title](path or link to image) -->
-![wireframe](images/Easier-Layout.png)
+![wireframe](images/Easier-layout.png)
 
 ## technology used
 <!-- make a list of technology used -->
@@ -30,6 +30,7 @@ Learning html,css,floats,positioning
 1. HTML
 2. CSS
     * float
+    * position
     * padding
 
 
@@ -61,12 +62,12 @@ Learning html,css,floats,positioning
 ## Learning points
 * Idea behind the classes and ids
 * concept of box model
-* positioning of html elements using css float
+* positioning of html elements using css float,padding
 
 
 
 ## Author 
-[Ajita Srivastava](https://ajitas.github.io/HW-Wireframe/)
+[Ajita Srivastava](https://github.com/ajitas)
 
 ## License
 Standard MIT License
